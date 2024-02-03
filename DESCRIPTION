@@ -1,0 +1,6 @@
+Package: hotellingisrt
+Type: Package
+Title: Finding hotelling's t^2 statistic as demostrated in ast-332
+Version: 0.0.1.0
+RoxygenNote: 7.3.1
+License: MIT + file LICENSE
